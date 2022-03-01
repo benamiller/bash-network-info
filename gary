@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "Hello Gary and wonderful teaching team!"
+echo
+echo "You are looking for" $1
+echo
+
+address=$(echo "$1" | sed 's/^www.//')
+
+whois $address > result.txt
+cat result.txt | grep -m 1 'Domain Name' | awk '{print $3}'
+cat result.txt | grep -m 1 'Tech Email'
+cat result.txt | grep -m 1 'NetName'
+cat result.txt | grep 'OrgAbuseEmail'
+cat result.txt | grep 'OrgNOCEmail'
+cat result.txt | grep 'OrgNOCPhone'
+
+echo
+
+echo "The A Records are"
+dig +noall +answer $1 | cut -dA -f2
+
+echo
+
+echo "The CNAME Records are"
+dig +noall +answer www.$1 | grep CNAME | awk '{print "\t", $5}'

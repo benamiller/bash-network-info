@@ -1,0 +1,208 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.cira.ca
+
+domain:       CA
+
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
+
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
+
+nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
+nserver:      C.CA-SERVERS.CA 185.159.196.2 2620:10a:8053:0:0:0:0:2
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+nserver:      X.CA-SERVERS.CA 199.253.250.68 2620:10a:80ba:0:0:0:0:68
+ds-rdata:     48662 8 2 b88605073ae242e4917a795ada1eac2580c0fa9d622b228926fecb408b41c3f9
+
+whois:        whois.cira.ca
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2021-10-26
+source:       IANA
+
+# whois.cira.ca
+
+Domain Name: yahoo.ca
+Registry Domain ID: D670225-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-11-10T20:44:58Z
+Creation Date: 2000-10-04T00:08:36Z
+Registry Expiry Date: 2022-09-21T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 101354856-CIRA
+Registrant Name: Yahoo Canada Corp.
+Registrant Organization:
+Registrant Street: 99 Spadina Ave., Suite 200 & 300
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V3P8
+Registrant Country: CA
+Registrant Phone: +1.4162638100
+Registrant Phone Ext:
+Registrant Fax: +1.4162638100
+Registrant Fax Ext:
+Registrant Email: domainip@yahooinc.com
+Registry Admin ID: 101355413-CIRA
+Admin Name: Andres Lorca
+Admin Organization: Yahoo Canada Corp.
+Admin Street: 99 Spadina Ave., Suite 200 & 300
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V3P8
+Admin Country: CA
+Admin Phone: +1.4162638100
+Admin Phone Ext:
+Admin Fax: +1.4162638100
+Admin Fax Ext:
+Admin Email: domainip@yahooinc.com
+Registry Tech ID: 101355413-CIRA
+Tech Name: Andres Lorca
+Tech Organization: Yahoo Canada Corp.
+Tech Street: 99 Spadina Ave., Suite 200 & 300
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5V3P8
+Tech Country: CA
+Tech Phone: +1.4162638100
+Tech Phone Ext:
+Tech Fax: +1.4162638100
+Tech Fax Ext:
+Tech Email: domainip@yahooinc.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns1.yahoo.com
+Name Server: ns2.yahoo.com
+Name Server: ns3.yahoo.com
+Name Server: ns5.yahoo.com
+Name Server: ns7.yahoo.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-03-01T02:23:44Z <<<
+
+# whois.ca.fury.ca
+
+Domain Name: yahoo.ca
+Registry Domain ID: D670225-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-11-10T20:44:58Z
+Creation Date: 2000-10-04T00:08:36Z
+Registry Expiry Date: 2022-09-21T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 101354856-CIRA
+Registrant Name: Yahoo Canada Corp.
+Registrant Organization:
+Registrant Street: 99 Spadina Ave., Suite 200 & 300
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V3P8
+Registrant Country: CA
+Registrant Phone: +1.4162638100
+Registrant Phone Ext:
+Registrant Fax: +1.4162638100
+Registrant Fax Ext:
+Registrant Email: domainip@yahooinc.com
+Registry Admin ID: 101355413-CIRA
+Admin Name: Andres Lorca
+Admin Organization: Yahoo Canada Corp.
+Admin Street: 99 Spadina Ave., Suite 200 & 300
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V3P8
+Admin Country: CA
+Admin Phone: +1.4162638100
+Admin Phone Ext:
+Admin Fax: +1.4162638100
+Admin Fax Ext:
+Admin Email: domainip@yahooinc.com
+Registry Tech ID: 101355413-CIRA
+Tech Name: Andres Lorca
+Tech Organization: Yahoo Canada Corp.
+Tech Street: 99 Spadina Ave., Suite 200 & 300
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5V3P8
+Tech Country: CA
+Tech Phone: +1.4162638100
+Tech Phone Ext:
+Tech Fax: +1.4162638100
+Tech Fax Ext:
+Tech Email: domainip@yahooinc.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns1.yahoo.com
+Name Server: ns2.yahoo.com
+Name Server: ns3.yahoo.com
+Name Server: ns5.yahoo.com
+Name Server: ns7.yahoo.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-03-01T02:25:51Z <<<
+
